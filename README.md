@@ -99,7 +99,7 @@ mcdermg/hygen-test
 
 rm -rf .terraform *.tf .git .gitignore .pre-commit-config.yaml .terraform.lock.hcl _templates *.md .envrc
 
-cp -r $HOME/repos/testing/hygen/terraform/_templates .
+cp -r $HOME/repos/hygen-terraform/_templates .
 
 hygen terraform gcp
 hygen terraform aws
