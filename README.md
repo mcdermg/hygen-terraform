@@ -91,7 +91,7 @@ hygen terraform gcp
 
 ### Testing
 
-The following commands may be useful for testing but check th epaths are correct:
+The following commands may be useful for testing:
 
 ```
 gh repo delete mcdermg/hygen-test
