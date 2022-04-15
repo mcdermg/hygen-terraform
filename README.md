@@ -74,7 +74,7 @@ git commit -m 'Initial commit'
 Run the following, dependent on the repository being located at `$HOME/hygen-terraform/_templates`. The idea is t have this sitting on the machine and then copy over as required whenever creating new Terraform for a particular service on a particular cloud provider.
 
 ```
-cp -r $HOME/hygen-terraform/_templates .
+cp -r $HOME/repos/hygen-terraform/_templates .
 ```
 
 Then depending on the cloud provider you will need to run either of the following. You will be asked interactively for what version of Terraform you would like to use.
