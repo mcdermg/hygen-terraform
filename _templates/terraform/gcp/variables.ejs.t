@@ -2,7 +2,7 @@
 to: variables.tf
 ---
 # variable "" {
-#   type        = ""
-#   dexcription = ""
+#   type        = 
+#   description = ""
 #   default     = ""
 # }
