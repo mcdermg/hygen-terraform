@@ -67,6 +67,7 @@ On completion of generating the files the following commands are run to create a
 git init
 git add .
 git commit -m 'Initial commit'
+pre-commit install
 ```
 
 ## Deployment
