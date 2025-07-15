@@ -1,5 +1,5 @@
 ---
-to: version.tf
+to: versions.tf
 ---
 terraform {
   required_version = "<%= tfversion %>"
